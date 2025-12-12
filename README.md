@@ -4,3 +4,8 @@
 
 [Random symbols on the plane (Version 0 - Random placed and rotated Unicode characters) | Babylon.js Playground](https://playground.babylonjs.com/#O8I3ZO#1)
 
+[Random symbols on the plane (Version 1 - Endless XZ podiums with random Unicode characters) | Babylon.js Playground](https://playground.babylonjs.com/#CGKIR6)
+
+бюесконченый процедурно генерируемый ковёр из случайных символов Юникода.
+
+[Random symbols on the plane (Version 2 - An endless carpet of random Unicode characters) | Babylon.js Playground](https://playground.babylonjs.com/#TQY0CV)
