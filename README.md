@@ -8,6 +8,10 @@
 
 [Random symbols on the plane (Version 1 - Endless XZ podiums with random Unicode characters) | Babylon.js Playground](https://playground.babylonjs.com/#CGKIR6)
 
-бесконченый процедурно генерируемый ковёр из случайных символов Юникода.
+Бесконченый процедурно генерируемый ковёр из случайных символов Юникода.
 
 [Random symbols on the plane (Version 2 - An endless carpet of random Unicode characters) | Babylon.js Playground](https://playground.babylonjs.com/#TQY0CV)
+
+Бесконченый процедурно генерируемый ковёр из случайных символов Юникода но все символы заранее заданы.
+
+[Random symbols on the plane (Version 3 - With a preset generation) | Babylon.js Playground](https://playground.babylonjs.com/#1634F2)
