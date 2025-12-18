@@ -19,3 +19,7 @@
 С предустановленной генерацией символов + Равномерное расположение символов + Символы случайно повернуты.
 
 [Random symbols on the plane (Version 4 - With a preset generation+Uniform arrangement of symbols+Symbols random rotate) | Babylon.js Playground](https://playground.babylonjs.com/#1UBFBL)
+
+Теперь лишь сделаем все символы одинаково повернутыми.
+
+[Random symbols on the plane (Version 5 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#QX4BI8)
