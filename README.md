@@ -30,5 +30,4 @@
 
 Финальная версия + Все символы разного размера.
 
-[Random symbols on the plane (Version 7 - Final version + All symbols are of different sizes) | Babylon.js Playground](https://playground.babylonjs.com/#T6BA7I#1)
-
+[Random symbols on the plane (Version 7 - Randomly rotated + In a random place + All symbols are of different sizes) | Babylon.js Playground](https://playground.babylonjs.com/#T6BA7I#2)
