@@ -23,3 +23,7 @@
 Теперь лишь сделаем все символы одинаково повернутыми.
 
 [Random symbols on the plane (Version 5 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#QX4BI8)
+
+Случайные символы Юникода повернуты одинаково, и разного размера от минимально до максимального случайного размера.
+
+[Random symbols on the plane(Version 6 - Random characters in a random place but rotated the same way and of random size) | Babylon.js Playground](https://playground.babylonjs.com/#RZUWES)
