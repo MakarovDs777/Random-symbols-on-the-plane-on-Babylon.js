@@ -27,3 +27,8 @@
 Случайные символы Юникода повернуты одинаково, и разного размера от минимально до максимального случайного размера.
 
 [Random symbols on the plane(Version 6 - Random characters in a random place but rotated the same way and of random size) | Babylon.js Playground](https://playground.babylonjs.com/#RZUWES)
+
+Финальная версия + Все символы разного размера.
+
+[Random symbols on the plane (Version 7 - Final version + All symbols are of different sizes) | Babylon.js Playground](https://playground.babylonjs.com/#T6BA7I#1)
+
