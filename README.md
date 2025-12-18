@@ -15,3 +15,7 @@
 Бесконченый процедурно генерируемый ковёр из случайных символов Юникода но все символы заранее заданы.
 
 [Random symbols on the plane (Version 3 - With a preset generation) | Babylon.js Playground](https://playground.babylonjs.com/#1634F2)
+
+С предустановленной генерацией символов + Равномерное расположение символов + Символы случайно повернуты.
+
+[Random symbols on the plane (Version 4 - With a preset generation+Uniform arrangement of symbols+Symbols random rotate) | Babylon.js Playground](https://playground.babylonjs.com/#1UBFBL)
